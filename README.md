@@ -18,3 +18,5 @@ _texto en cursiva_
 - [ ] hola
 
 ![imagen para la tarea](https://static.wikia.nocookie.net/hollowknight/images/7/79/Promo_04.png/revision/latest?cb=20181111043345)
+
+____________________________________________________________________________________________________________________
